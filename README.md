@@ -6,4 +6,4 @@
 
 ![image](https://github.com/aassxun/NJUST_Badminton_order_demo/blob/main/sample_out.png)
 
-可以在自己的预定栏看到信息，付款仍然需要自己起床20分钟内付。
+(订单为-1元也可以生成，但是不能付款，算是个bug吧)，可以在自己的预定栏看到信息，付款仍然需要自己起床20分钟内付。
